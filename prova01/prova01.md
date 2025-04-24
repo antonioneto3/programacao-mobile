@@ -1,4 +1,4 @@
-#Equipe:
+# Equipe:
 - Antônio Lopes de Freitas Neto
 - Gabriel do Nascimento
 - Isabella Caetano Spier
@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
+```
 ## 2. MenuScreen
 
 **Descrição**:

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'perfil_pet_screen.dart';
 
 void main() {
   runApp(const PetApp());
